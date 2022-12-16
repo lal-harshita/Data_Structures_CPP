@@ -1,0 +1,31 @@
+Data structures
+    Linked list
+        Insertion of node in LL at beginning, end and nth position
+        Deletion of node from LL at beginning, end and nth position
+        Deletion of node with particular value
+        Reverse LL (Iterative method and Recursive method)
+        Print LL in forward and reverse order (Iterative method and Recursive method)
+
+    Doubly Linked list
+        Insertion at a position in LL
+        Deletion from a position in LL
+        Print/Traverse LL in forward order
+        Print LL in reverse order
+    
+    Stacks
+        Implementation of stacks using Array - Push, Pop, Top, IsEmpty
+        Implementation of stacks using Linked list - Push, Pop, Top, IsEmpty
+        Implementation of stacks using CPP STL - Push, Pop, Top, Empty, Size
+        Problem : Reverse a string using stack and array. Compare time and space complexity.
+        Problem : Reverse a LL using stack
+        Problem : Check for balanced paranthesis in an expression
+        Problem : Infix to Prefix 
+        Problem : Infix to Postfix
+        Problem : Evaluation of Postfix
+        Problem : Evaluation of Postfix
+
+TBD
+Standard Libraries in CPP (STL)
+Searching Algorithms
+Sorting Algorithms
+Bit Operations
